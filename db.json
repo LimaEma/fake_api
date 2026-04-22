@@ -4,7 +4,7 @@
         "id":1, 
         "nome": "Mtec-PI Desenvolvimento de Sistemas",
         "disciplinas": ["WEB III", "PAM II", "BD"],
-        "carga horaria" : 1200
+        "carga horaria" : 4320
         },
         {
             "id":2, 
@@ -16,7 +16,7 @@
             "id":3, 
             "nome": " M-Tec-N Informática",
             "disciplinas": ["Suporte ao Usuário ", "Programação de Computadores I e II", "Gestão de Sistemas Operacionais I e II"],
-            "carga horaria" : 2000
+            "carga horaria" : 3600
         },
         {
             "id":4, 
